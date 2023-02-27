@@ -66,7 +66,7 @@ const App = () => {
     <div className='w-full min-h-screen p-10 flex flex-col overflow-x-hidden 00 bg-amber-50 '>
       <Header />
       <div className='border-amber-700  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-5 shadow-lg text-white rounded-xl mt-20 mb-5 p-3'>
-        <div className='flex flex-col justify-center items-center w-full gap-10'>
+        <div id='homePage' className='flex flex-col justify-center items-center w-full gap-10'>
           <FilmHeadline heading='Archive: Search a Movie' />
           <SearchInput searchValue={searchValue} setSearchValue={setSearchValue} />
         </div>
