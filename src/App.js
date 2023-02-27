@@ -70,7 +70,7 @@ const App = () => {
           <FilmHeadline heading='Archive: Search a Movie' />
           <SearchInput searchValue={searchValue} setSearchValue={setSearchValue} />
         </div>
-        <div className='flex items-center justify-center md:justify-between w-auto flex-wrap gap-5 '>
+        <div  className='flex items-center justify-center md:justify-between w-auto flex-wrap gap-5 '>
           <Films movies={movies} handleFavoriteClick={addFavoriteMovie} favoriteComponent={fave} />
         </div>
       </div>
@@ -79,7 +79,7 @@ const App = () => {
         <div className='my-5 flex flex-col justify-center items-center w-full gap-10'>
           <FilmHeadline heading='Add it to Your Favorite' />
         </div>
-        <div className='flex items-center flex-wrap gap-5 justify-center flex-col md:flex-row md:justify-between w-full'>
+        <div id='favoriteHeader' className='flex items-center flex-wrap gap-5 justify-center flex-col md:flex-row md:justify-between w-full'>
           <Films
             movies={favorite}
             handleFavoriteClick={removeFavoriteMovie}
