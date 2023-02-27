@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Movie Search App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a movie search app built with React and Tailwind CSS. It allows users to search for movies using the The Movie Database (TMDb) API and save their favorite movies to a local archive.
+# Features
+Search for movies using the TMDb API
+Save favorite movies to a local archive
+Fully responsive UI design with Tailwind CSS
+Simple and intuitive user interface
 
 ## Available Scripts
 
