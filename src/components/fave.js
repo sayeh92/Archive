@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Fave = () => {
+const fave = () => {
   return (
     <>
       <span className='mr-2'>Add to Favourites</span>
@@ -20,4 +20,4 @@ const Fave = () => {
   )
 }
 
-export default Fave
+export default fave
