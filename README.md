@@ -25,7 +25,7 @@ You can view your archive by clicking on the "Favorites" link in the navigation 
 -   [React](https://reactjs.org/)
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api)
-- YouTube (Our Savoir)
+- YouTube (Our Savoir) :crown:
 
 
 ## License
