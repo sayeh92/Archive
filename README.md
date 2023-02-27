@@ -1,4 +1,4 @@
-#  Movie Search App
+#  Movie Search App (Simple is Fancy)
 
 This is a movie search app built with React and Tailwind CSS. It allows users to search for movies using the [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) and save their favorite movies to a local archive.
 
